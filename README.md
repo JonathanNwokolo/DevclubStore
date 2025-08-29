@@ -24,4 +24,3 @@ Este é um projeto de e-commerce fictício desenvolvido como parte do meu aprend
 
 
 
-C:\Users\Home\Desktop\DevclubStore\img\fotoprojetodevclub.png
