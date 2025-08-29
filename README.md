@@ -1,6 +1,6 @@
 # Devclub Store
 
-![Devclub Store](https://via.placeholder.com/1200x600.png?text=Devclub+Store+Banner)
+
 
 Este é um projeto de e-commerce fictício desenvolvido como parte do meu aprendizado em **HTML, CSS e JavaScript**. A página exibe um carrossel de produtos com transições dinâmicas e uma interface moderna.
 
@@ -22,6 +22,5 @@ Este é um projeto de e-commerce fictício desenvolvido como parte do meu aprend
 
 
 
-![Devclub Store Screenshot](./img/fotoprojetodevclub.png)
-
+![Devclub Store Screenshot](./img/fotoprojetodevclub.jpg)
 
