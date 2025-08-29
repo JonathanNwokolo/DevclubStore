@@ -22,5 +22,6 @@ Este é um projeto de e-commerce fictício desenvolvido como parte do meu aprend
 
 
 
-![Devclub Store Screenshot](./img/fotoprojetodevclub.jpg)
 
+
+C:\Users\Home\Desktop\DevclubStore\img\fotoprojetodevclub.png
