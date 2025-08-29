@@ -20,6 +20,7 @@ Este é um projeto de e-commerce fictício desenvolvido como parte do meu aprend
 * **Contador de Produtos**: Um indicador numérico que mostra qual produto está sendo visualizado.
 * **Design Responsivo**: O layout se adapta a diferentes tamanhos de tela.
 
+<img width="1808" height="667" alt="Captura de tela 2025-08-29 133131" src="https://github.com/user-attachments/assets/914ecdd5-84c8-4fcc-93bc-a02a87c00f6d" />
 
 
 
